@@ -2,7 +2,7 @@
 IPs: 73.155.219.119, 2601:2c1:8d00:fc70:d584:d36a:750b:2eb1
 Hostname: c-73-155-219-119.hsd1.tx.comcast.net
 AS: AS7922 Comcast Cable Communications Inc
-Approx. Location: Houston, Texas, United States of America 77250 (29.7630, -95.3620)
+Approx. Location: Houston, Texas, United States of America 77250 (29.763029, -95.362061)
 
 == Screen [Android] ==
 
