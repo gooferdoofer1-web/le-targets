@@ -1,6 +1,7 @@
 == IP Info ==
 IPs: 73.155.219.119, 2601:2c1:8d00:fc70:d584:d36a:750b:2eb1
 Hostname: c-73-155-219-119.hsd1.tx.comcast.net
+AS: AS7922 Comcast Cable Communications Inc
 Approx. Location: Houston, Texas, United States of America 77250 (29.7630, -95.3620)
 
 == Screen [Android] ==
@@ -51,3 +52,22 @@ localStorage: true
 sessionStorage: true
 indexedDB: true
 openDatabase: false
+
+== OSINT data [W.I.P] ==
+
+https://www.youtube.com/live/_ATNBWR86OQ thanks for the face asshole i'm gonna unblue it
+
+https://blink.new/u/m1vveo3gzaeovv93
+https://fish.audio/app/u/1859d7b7cb3b4120b862f7ffb2253d37/ die
+https://pastebin.com/u/BobBedf script kiddie
+https://replit.com/@BobBedf
+https://tenor.com/users/BobBedf
+https://imgur.com/user/bobbedf
+https://github.com/bobbedf-png [deleted]
+https://gist.github.com/bobbedf-png [deleted]
+https://bobbedf.neocities.org/
+
+https://www.instagram.com/bedfbob/ [unconfirmed]
+
+== Conclusion ==
+9 - 14 years of age, uses Windows and Android. He MIGHT know Russian (but is unlikely), and he lives at Houston (IP lookup points near Market Square Park). 
