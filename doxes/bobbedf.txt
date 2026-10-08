@@ -1,0 +1,52 @@
+== IP Info ==
+IPs: 73.155.219.119, 2601:2c1:8d00:fc70:d584:d36a:750b:2eb1
+Hostname: c-73-155-219-119.hsd1.tx.comcast.net
+Approx. Location: Houston, Texas, United States of America 77250 (29.7630, -95.3620)
+
+== Screen [Android] ==
+
+Screen: 384x834
+Device to Pixel Ratio: 2.8125
+Color Depth: 24
+
+== Time ==
+
+Offset: 300
+Calendar: gregory
+Timezone: America/Chicago
+Month: Numeric
+Year: Numeric
+Numbering System: latn
+
+== More Info ==
+
+Device: Android BP2A.250605.031.A3.A156USQSBDZDC
+Vendor: Google Inc.
+Platform: Linux armv81
+Cpu Cores: 8
+Max Touch Points: 5
+Languages: en-US, en, ru
+Main Language: en-US
+device Memory: 4
+Cookies Enabled: yes
+Fonts: Courier, Courier 10 Pitch, Courier New
+Storage Quota: 10737418240
+JS Heap Size Limit: 1000000000
+
+== APIs [Android] ==
+
+serviceWorker: true
+sharedWorker: true
+webWorker: true
+webGL: true
+webGL2: true
+webRTC: true
+webAssembly: true
+webSockets: true
+fetch: true
+crypto: true
+subApps: false
+localStorage: true
+sessionStorage: true
+indexedDB: true
+openDatabase: false
