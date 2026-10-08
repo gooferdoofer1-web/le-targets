@@ -21,6 +21,7 @@ Numbering System: latn
 == More Info ==
 
 Device: Android BP2A.250605.031.A3.A156USQSBDZDC
+Email (obvious): bobbedf@gmail.com
 Vendor: Google Inc.
 Platform: Linux armv81
 Cpu Cores: 8
