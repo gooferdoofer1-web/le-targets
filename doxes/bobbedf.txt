@@ -53,10 +53,10 @@ sessionStorage: true
 indexedDB: true
 openDatabase: false
 
-== OSINT data [W.I.P] ==
+== Other Accounts ==
 
-https://www.youtube.com/live/_ATNBWR86OQ face
-https://file.garden/al0nHzmrxi0o9noM/the%20webbies%20show.mp4 face
+https://www.youtube.com/live/_ATNBWR86OQ <- face
+https://file.garden/al0nHzmrxi0o9noM/the%20webbies%20show.mp4 <- face
 
 https://blink.new/u/m1vveo3gzaeovv93/
 https://fish.audio/app/u/1859d7b7cb3b4120b862f7ffb2253d37/
